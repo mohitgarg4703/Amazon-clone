@@ -1,1 +1,3 @@
-# Amazon-clone
+readme file
+<br>
+Amazon-clone
